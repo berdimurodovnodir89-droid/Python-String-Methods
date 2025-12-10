@@ -1,6 +1,6 @@
 text = input('text :')
 
-if text.split() :
+if text.strip() :
     print('True')
 else :
     print('False')
