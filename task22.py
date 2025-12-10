@@ -1,5 +1,7 @@
 text = input('text :')
 
-result = text.isspace()
+if text.split() :
+    print('True')
+else :
+    print('False')
 
-print(result)
