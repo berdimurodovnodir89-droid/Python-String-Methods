@@ -1,5 +1,4 @@
-word = input('Soz kiriting :')
-
-result = word.capitalize()
+text = input('text: ')
+result = text[0].isupper()
 
 print(result)
