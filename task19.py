@@ -1,5 +1,5 @@
 word = input('soz kiriting :')
 
-result = word.isalpha()
+result = word.islower()
 
 print(result)
