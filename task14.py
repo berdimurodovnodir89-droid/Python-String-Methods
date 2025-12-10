@@ -1,9 +1,3 @@
-# word = 'salom'
-# repeat = input('search :')
-# if repeat.upper() in word.upper() :
-#     print('True')
-# else :
-#     print('False')
 
 word = input('word :')
 
